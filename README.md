@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oracle00999
+- 👋 Hi, I’m Anthony🔥 @Oracle00999
 - 👀 I’m interested in ...🤷‍♂️
 - 🌱 I’m currently learning ...🤷‍♂️
 - 💞️ I’m looking to collaborate on ...🤷‍♂️
