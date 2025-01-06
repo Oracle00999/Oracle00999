@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Anthony🔥 @Oracle00999
-- 👀 I’m interested in ...🤷‍♂️
-- 🌱 I’m currently learning ...🤷‍♂️
-- 💞️ I’m looking to collaborate on ...🤷‍♂️
-- 📫 How to reach me ...🤷‍♂️
-- I will update y'all when i know my field ...🤦
+👋 Hi, I’m Nwazota Chibuike Anthony 
+
+👀 I’m passionate about front-end development and mobile app creation.
+🌱 I’m currently learning advanced mobile development techniques.
+💞️ I’m open to collaborating on innovative web and mobile app projects.
+🚀 Excited to share my journey as I continue growing in the tech space!
+
 
 <!---
 Oracle00999/Oracle00999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
