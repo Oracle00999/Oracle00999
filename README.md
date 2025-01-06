@@ -1,9 +1,8 @@
-👋 Hi, I’m Nwazota Chibuike Anthony 
-
-👀 I’m passionate about front-end development and mobile app creation.
-🌱 I’m currently learning advanced mobile development techniques.
-💞️ I’m open to collaborating on innovative web and mobile app projects.
-🚀 Excited to share my journey as I continue growing in the tech space!
+👋 Hi, I’m Nwazota Chibuike Anthony,
+I’m passionate about front-end development and mobile app creation.
+I’m currently learning advanced mobile development techniques.
+I’m open to collaborating on innovative web and mobile app projects.
+Excited to share my journey as I continue growing in the tech space!
 
 
 <!---
