@@ -4,8 +4,8 @@ I'm a passionate Full-Stack Developer who enjoys building both beautiful user in
 ### 🛠️ Technologies
 **Frontend:** Html, Css, Javascript, React,  Tailwind CSS, Redux,
 **Backend:** Node.js, Express,
-**Database:** MongoDB, PostgreSQL, MySQL,
-**DevOps:** Docker, AWS, Vercel, CI/CD
+**Database:** MongoDB, MySQL
+
 
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Oracle00999&show_icons=true&theme=radical)
